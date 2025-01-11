@@ -29,7 +29,6 @@ A simple URL shortener application built with Node.js, Express, and MongoDB.
 - Bootstrap (for styling)
 - EJS (Embedded JavaScript templating)
 - CSS(for styling)
-*
 - ShortID (for generating unique short URLs)
 
 ## Installation
