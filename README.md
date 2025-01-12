@@ -35,7 +35,7 @@ A simple URL shortener application built with Node.js, Express, and MongoDB.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/afiyashaikh06/url-shortener.git
+   git clone https://github.com/afiyashaikh06/sumaiya-shaikh/url-shortener.git
    cd url-shortener
 *Install requried packages
 2. install the backend dependencies
